@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a73fde78621f140b971794910fd1eb, type: 3}
+  m_Name: KeyConfig
+  m_EditorClassIdentifier: 
+  _itemIcon: {fileID: 21300000, guid: 370556a01ac4e4740a7642c58ae3fef0, type: 3}
+  _itemPrefab: {fileID: 6918664986120284182, guid: e6895c0b12ab6cd499d1bd3880ba488a, type: 3}
+  _itemName: "\u041A\u043B\u044E\u0447"
+  _itemID: 111
+  _pickUpDistance: 0.6

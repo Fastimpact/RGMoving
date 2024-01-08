@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ac91add1e54b37a82b09c8ee3acc55, type: 3}
+  m_Name: Heavyweight
+  m_EditorClassIdentifier: 
+  Type: 2
+  AttackDamage: 4
+  AttackRadius: 4
+  CooldownBetweenAttacks: 0.3
+  StunProtection: 5
+  TimeToCareProtectionOfStun: 1.3
+  TimeToCareFullProtectionOfStun: 3
+  Health: 20
+  MaxHealth: 20
+  FallSpeed: 2
+  Speed: 8
+  SeeCharacterRadius: 30
+  WalkRadius: 3.5
+  WaitToGoToNextPointTime: 0.6
+  HeavyweightAttackRadius: 6
+  ShieldHealth: 5
+  ShieldProtection: 8
+  TimeToCareShieldProtection: 3
+  HasShieldOnSpawn: 0
+  ShieldAngle: 120
+  ShieldActiveTime: 3
+  AnimationMoveSpeed: 1

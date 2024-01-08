@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4991e54deb747099212622866f6c89c, type: 3}
+  m_Name: GunMeleeAttackConfig
+  m_EditorClassIdentifier: 
+  <MagnetizationRadius>k__BackingField: 0.3
+  <Damage>k__BackingField: 1
+  <DamageToProtection>k__BackingField: 1
+  <DamageDistance>k__BackingField: 1
+  <AttackAngle>k__BackingField: 200
+  <AttackCooldown>k__BackingField: 0.5
+  <AttackMoveSpeed>k__BackingField: 2
+  <TypeOfAttack>k__BackingField: 0
+  <ChargedConfig>k__BackingField:
+    <AttacksCount>k__BackingField: 6
+    <DamageCoefficient>k__BackingField: 2
+    <Speed>k__BackingField: 0.15
+  <HealingHealth>k__BackingField: 1
+  <StyleUp>k__BackingField: 1
+  <Combo>k__BackingField:
+  - {fileID: 11400000, guid: efeebfa96b2b6564a8134edf89d65159, type: 2}
+  - {fileID: 11400000, guid: 4f60cbc0b6d4f724d862f465c8402777, type: 2}
